@@ -14,7 +14,7 @@ dist/
 .venv/
 env/
 venv/
-
+mcp-gateway-registry/
 # IDE
 .vscode/
 .idea/
